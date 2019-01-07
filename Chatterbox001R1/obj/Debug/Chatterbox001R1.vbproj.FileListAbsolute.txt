@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\bin\Debug\Chatterbox001R1.exe
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\bin\Debug\Chatterbox001R1.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\bin\Debug\Chatterbox001R1.xml
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.exe
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.xml
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.MainProgram.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.About.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.Changelog.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Chatterbox001R1\Chatterbox001R1\obj\Debug\Chatterbox001R1.Settings.resources
